@@ -1,5 +1,0 @@
-{{#user}}
-Name: Mansha Khattar
-Skills: Python, Django, React.js, Git
-Email: manshakhattar@gmail.com
-{{/user}}
